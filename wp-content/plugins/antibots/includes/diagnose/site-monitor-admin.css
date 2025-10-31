@@ -1,0 +1,71 @@
+/* Estilos para o botão Plugin Sentinel na Admin Bar */
+
+/* 1. Estilos base do botão principal (VERMELHO) */
+#wp-admin-bar-plugin-sentinel .ab-item {
+    background-color: #ff0000 !important;
+    /* Fundo VERMELHO para o botão principal */
+    height: 32px;
+    line-height: 32px;
+    padding: 0 10px;
+    border: none !important;
+    box-shadow: none !important;
+    padding-left: 5px !important;
+    margin-left: -5px !important;
+}
+
+/* 2. CORREÇÃO FINAL: Fundo PRETO para o menu suspenso (o dropdown) */
+/* Este seletor é extremamente específico para garantir que o UL do submenu seja preto. */
+#wp-admin-bar-plugin-sentinel:hover>.ab-sub-wrapper,
+#wp-admin-bar-plugin-sentinel .ab-sub-wrapper>.ab-submenu {
+    background-color: #000000 !important;
+}
+
+
+/* 3. Estiliza o ícone e o texto do BOTÃO PRINCIPAL */
+#wp-admin-bar-plugin-sentinel .ab-icon::before,
+#wp-admin-bar-plugin-sentinel .ab-label {
+    color: #fff !important;
+}
+
+/* 4. Ajustes específicos para o ícone (MANTIDO) */
+
+#wp-admin-bar-plugin-sentinel .ab-icon {
+    margin-right: 0 !important;
+    padding-right: 2px !important;
+    padding-left: 0px !important;
+}
+
+
+#wp-admin-bar-plugin-sentinel .ab-icon::before {
+    font-size: 20px !important;
+    vertical-align: middle !important;
+    margin-right: 0px !important;
+    position: relative !important;
+    top: 2px !important;
+    right: 0px !important;
+
+
+}
+
+
+
+
+/* 5. Hover no botão principal (Vermelho Escuro) */
+#wp-admin-bar-plugin-sentinel .ab-item:hover {
+    background-color: #cc0000 !important;
+}
+
+/* 6. NOVO: Garante que os ITENS do submenu (links) tenham cor branca no fundo preto */
+#wp-admin-bar-plugin-sentinel .ab-sub-wrapper .ab-item {
+    color: #fff !important;
+    /* Texto branco */
+    background-color: hwb(0 47% 53%) !important;
+    /* Item de submenu com fundo preto */
+}
+
+/* 7. Hover nos itens do submenu (Para um efeito visual) */
+#wp-admin-bar-plugin-sentinel .ab-sub-wrapper .ab-item:hover {
+    color: #fff !important;
+    background-color: #333333 !important;
+    /* Um cinza escuro para o hover no submenu */
+}

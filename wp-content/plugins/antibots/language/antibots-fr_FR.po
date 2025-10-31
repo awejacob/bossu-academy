@@ -1,0 +1,1550 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Antibots\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-10 14:32+0100\n"
+"PO-Revision-Date: 2025-10-30 09:05+0000\n"
+"Last-Translator: \n"
+"Language-Team: French (France)\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: antibot.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Loco-Version: 2.7.1; wp-6.7.2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: settings/options/plugin_options_tabbed.php:40
+msgid "1 Week"
+msgstr "1 semaine"
+
+#: settings/options/plugin_options_tabbed.php:41
+msgid "2 Weeks"
+msgstr "2 semaines"
+
+#: settings/options/plugin_options_tabbed.php:42
+msgid "3 Weeks"
+msgstr "3 semaines"
+
+#: settings/options/plugin_options_tabbed.php:43
+msgid "4 Weeks"
+msgstr "4 semaines"
+
+#: settings/options/plugin_options_tabbed.php:44
+msgid "5 Weeks"
+msgstr "5 semaines"
+
+#: settings/options/plugin_options_tabbed.php:45
+msgid "6 Weeks"
+msgstr "6 semaines"
+
+#: settings/options/plugin_options_tabbed.php:46
+msgid "7 Weeks"
+msgstr "7 semaines"
+
+#: settings/options/plugin_options_tabbed.php:47
+msgid "8 Weeks"
+msgstr "8 semaines"
+
+#: includes/diagnose/class_bill_diagnose.php:2858
+msgid ""
+"A 256MB WP memory limit per PHP instance acts as a safety cap. It prevents a "
+"single memory leak—caused by a visitor or faulty plugin—from consuming all "
+"server RAM. This isolation protects the server from being overwhelmed, "
+"ensuring one problem doesn't crash the site or harm the experience for all "
+"other visitors."
+msgstr ""
+"Une limite de mémoire WP de 256 Mo par instance PHP agit comme un plafond de "
+"sécurité. Elle empêche une fuite de mémoire, causée par un visiteur ou un "
+"plugin défectueux, de consommer toute la RAM du serveur. Cette isolation "
+"protège le serveur contre toute surcharge, garantissant ainsi qu'un problème "
+"ne provoque pas de plantage du site ni ne nuise à l'expérience des autres "
+"visiteurs."
+
+#: settings/options/plugin_options_tabbed.php:57
+msgid "Add only one for each line."
+msgstr "Ajoutez-en un seul pour chaque ligne."
+
+#: includes/diagnose/class_bill_diagnose.php:253
+msgid "Adequate execution time for most WordPress operations."
+msgstr "Temps d'exécution suffisant pour la plupart des opérations WordPress."
+
+#: includes/diagnose/class_bill_diagnose.php:3070
+msgid "AI-Powered Instant Support"
+msgstr "Assistance instantanée alimentée par l'IA"
+
+#: includes/chat/class_bill_chat.php:51
+msgid "AJAX request failed:"
+msgstr "La requête AJAX a échoué :"
+
+#: settings/options/plugin_options_tabbed.php:98
+msgid "Alert me by email each Bots Attempts"
+msgstr "Alertez-moi par email à chaque tentative de bots"
+
+#: functions/functions.php:434
+msgid "Anti Bots Plugin was activated!"
+msgstr "Le plugin Anti Bots a été activé !"
+
+#. Description of the plugin
+msgid ""
+"Anti Bots, SPAM bots and spiders. No DNS or Cloud Traffic Redirection. No "
+"Slow Down Your Site!"
+msgstr ""
+"Anti Bots, SPAM bots et spiders. Pas de redirection DNS ou de trafic cloud. "
+"Pas de ralentissement de votre site !"
+
+#. Name of the plugin
+msgid "Antibots"
+msgstr "Antibots"
+
+#: guide/guide.php:74
+msgid ""
+"Antibots it is a powerfull tool. Then, like all powerfull tools it is "
+"necessary to use carefully."
+msgstr ""
+"Antibots est un outil puissant. Comme tout outil puissant, il faut "
+"l'utiliser avec précaution."
+
+#: dashboard/dashboard.php:67
+msgid ""
+"AntiHacker Extension is Disabled! Activate it from the Plugins page to get a "
+"powerful, free firewall and block brute-force and XML-RPC attacks —currently "
+"a major source of attacks."
+msgstr ""
+"L'extension AntiHacker est désactivée ! Activez-la depuis la page des "
+"extensions pour bénéficier d'un pare-feu puissant et gratuit et bloquer les "
+"attaques par force brute et XML-RPC, actuellement une source majeure "
+"d'attaques."
+
+#: dashboard/dashboard.php:79
+msgid ""
+"AntiHacker Extension is Not Installed! Install it from the Plugins page to "
+"get a powerful, free firewall and block brute-force and XML-RPC attacks "
+"—currently a major source of attacks."
+msgstr ""
+"L'extension AntiHacker n'est pas installée ! Installez-la depuis la page des "
+"extensions pour bénéficier d'un pare-feu puissant et gratuit et bloquer les "
+"attaques par force brute et XML-RPC, actuellement une source majeure "
+"d'attaques."
+
+#: includes/diagnose/class_bill_diagnose.php:289
+msgid "APCu is installed and properly configured with WordPress drop-in."
+msgstr ""
+"APCu est installé et correctement configuré avec l'extension WordPress."
+
+#: includes/diagnose/class_bill_diagnose.php:293
+msgid "APCu is installed but missing the WordPress object-cache.php file."
+msgstr ""
+"APCu est installé mais le fichier object-cache.php de WordPress est manquant."
+
+#: includes/diagnose/class_bill_diagnose.php:292
+msgid "APCu: Missing Drop-in"
+msgstr "APCu : Module de connexion manquant"
+
+#: includes/diagnose/class_bill_diagnose.php:288
+msgid "APCu: Ready"
+msgstr "APCu : Prêt"
+
+#: includes/diagnose/class_bill_diagnose.php:2729
+msgid "Artificial Intelligence 24X7 Support Chat for Issues and Solutions"
+msgstr ""
+"Assistance par chat 24h/24 et 7j/7 pour les problèmes et les solutions liés "
+"à l'intelligence artificielle"
+
+#: includes/diagnose/class_bill_diagnose.php:2675
+msgid "Artificial Intelligence Support Chat 24x7 for Issues and Solutions"
+msgstr ""
+"Assistance par chat en intelligence artificielle 24h/24 et 7j/7 pour les "
+"problèmes et les solutions"
+
+#: guide/guide.php:31
+msgid ""
+"At Email and Notifications tab, you can customize your contact email or left "
+"blank to use your WordPress eMail."
+msgstr ""
+"Dans l'onglet E-mail et notifications, vous pouvez personnaliser votre e-"
+"mail de contact ou le laisser vide pour utiliser votre e-mail WordPress."
+
+#: includes/diagnose/class_bill_diagnose.php:3207
+msgid "Attack & Bot Security Report"
+msgstr "Rapport sur la sécurité des attaques et des robots"
+
+#: includes/diagnose/class_bill_diagnose.php:2706
+#: includes/diagnose/class_bill_diagnose.php:2751
+msgid "Auto Checkup for Errors"
+msgstr "Vérification automatique des erreurs"
+
+#: includes/diagnose/class_bill_diagnose.php:2715
+#: includes/diagnose/class_bill_diagnose.php:2756
+msgid "Auto Checkup Server "
+msgstr "Serveur de vérification automatique"
+
+#: guide/guide.php:47
+msgid "Because not all bots are bad, you need manage the Whitelist Tables."
+msgstr ""
+"Parce que tous les robots ne sont pas mauvais, vous devez gérer les tables "
+"de liste blanche."
+
+#. Author of the plugin
+msgid "Bill Minozzi"
+msgstr "Bill Minozzi"
+
+#: settings/options/plugin_options_tabbed.php:11
+msgid "Block all Bots Less Whitelisted?"
+msgstr "Bloquer tous les robots Moins de liste blanche ?"
+
+#: includes/diagnose/class_bill_diagnose.php:1208
+msgid ""
+"Block bots: They overload the server and steal your content. Install our "
+"free plugin Antihacker."
+msgstr ""
+"Bloquez les robots : ils surchargent le serveur et volent votre contenu. "
+"Installez notre plugin gratuit Antihacker."
+
+#: functions/functions.php:323
+msgid "Bot was detected and blocked."
+msgstr "Le bot a été détecté et bloqué."
+
+#: includes/diagnose/class_bill_diagnose.php:2941
+msgid "Bots & Hackers attack"
+msgstr "Attaque de robots et de pirates informatiques"
+
+#: dashboard/dashboard.php:190
+msgid "Bots / Human Visits"
+msgstr "Bots / Visites humaines"
+
+#. echo '</strong>';
+#: includes/diagnose/class_bill_diagnose.php:1519
+msgid ""
+"Bots aren't human—they're automated scripts that visit your site. They steal "
+"your content, making it less unique. They overload your server, slowing it "
+"down and hurting your SEO."
+msgstr ""
+"Les robots ne sont pas humains : ce sont des scripts automatisés qui "
+"visitent votre site. Ils volent votre contenu, le rendant moins unique. Ils "
+"surchargent votre serveur, le ralentissant et nuisant à votre référencement."
+
+#: dashboard/dashboard.php:173
+msgid ""
+"Bots showing in your statistics tool, Use old WP version, Low memory, some "
+"plugin with Javascript error are some possible problems."
+msgstr ""
+"Les robots s'affichent dans votre outil de statistiques, l'utilisation d'une "
+"ancienne version de WP, une mémoire faible, certains plugins avec une erreur "
+"Javascript sont quelques problèmes possibles."
+
+#: includes/diagnose/class_bill_diagnose.php:266
+msgid "Cache Status Analysis"
+msgstr "Analyse de l'état du cache"
+
+#: includes/diagnose/class_bill_diagnose.php:1049
+msgid ""
+"cannot function properly because your WordPress Memory Limit is too low. "
+"Your site will experience serious issues, even if you deactivate our plugin."
+msgstr ""
+"ne peut pas fonctionner correctement car votre limite de mémoire WordPress "
+"est trop basse. Votre site rencontrera de sérieux problèmes, même si vous "
+"désactivez notre extension."
+
+#: includes/diagnose/class_bill_diagnose.php:3073
+msgid "Chat for free with our AI support anytime, 24/7."
+msgstr ""
+"Discutez gratuitement avec notre support IA à tout moment, 24h/24 et 7j/7."
+
+#: includes/chat/class_bill_chat.php:45
+msgid "Chat messages reset successfully."
+msgstr "Les messages de discussion ont été réinitialisés avec succès."
+
+#: includes/diagnose/class_bill_diagnose.php:3175
+msgid "Check for available plugins & themes updates and security risks."
+msgstr ""
+"Vérifiez les mises à jour des plugins et des thèmes disponibles et les "
+"risques de sécurité."
+
+#: includes/diagnose/class_bill_diagnose.php:3158
+msgid ""
+"Check server resources, configuration status, and critical environment "
+"variables."
+msgstr ""
+"Vérifiez les ressources du serveur, l’état de la configuration et les "
+"variables d’environnement critiques."
+
+#: guide/guide.php:60
+msgid "Check Visitor's table frequently, especially in the first days."
+msgstr ""
+"Vérifiez fréquemment la table des visiteurs, surtout dans les premiers jours."
+
+#: includes/diagnose/class_bill_diagnose.php:1216
+msgid ""
+"Check your site for errors with free plugin wpTools. Errors and warnings can "
+"increase page load time by being recorded in log files, consuming resources "
+"and slowing down performance."
+msgstr ""
+"Vérifiez les erreurs sur votre site avec l'extension gratuite wpTools. Les "
+"erreurs et les avertissements peuvent augmenter le temps de chargement des "
+"pages en étant enregistrés dans les fichiers journaux, consommant ainsi des "
+"ressources et ralentissant les performances."
+
+#: guide/guide.php:51
+msgid ""
+"Click over the table title to Order. You can also type 403 (or other, as, "
+"for example, 404 - not found -) in the Search Bar."
+msgstr ""
+"Cliquez sur le titre du tableau pour le commander. Vous pouvez également "
+"saisir 403 (ou autre, comme par exemple 404 - not found -) dans la barre de "
+"recherche."
+
+#: includes/diagnose/class_bill_diagnose.php:2587
+msgid "Complete Error Summary - All Log Files"
+msgstr "Résumé complet des erreurs - Tous les fichiers journaux"
+
+#: includes/diagnose/class_bill_diagnose.php:262
+msgid "Consider increasing max_execution_time for better performance."
+msgstr ""
+"Envisagez d'augmenter la valeur de max_execution_time pour de meilleures "
+"performances."
+
+#: includes/diagnose/class_bill_diagnose.php:299
+msgid "Consider installing APCu for improved database performance."
+msgstr ""
+"Envisagez l'installation d'APCu pour améliorer les performances de votre "
+"base de données."
+
+#: includes/diagnose/class_bill_diagnose.php:225
+msgid ""
+"Consider installing ImageMagick for improved image processing performance."
+msgstr ""
+"Envisagez d'installer ImageMagick pour améliorer les performances de "
+"traitement d'images."
+
+#: includes/diagnose/class_bill_diagnose.php:240
+msgid "Consider updating to PHP 8.2+ for better performance and security."
+msgstr ""
+"Envisagez une mise à jour vers PHP 8.2+ pour de meilleures performances et "
+"une sécurité accrue."
+
+#: includes/diagnose/class_bill_diagnose.php:2601
+msgid "Count"
+msgstr "Compter"
+
+#: includes/diagnose/class_bill_diagnose.php:3235
+msgid "Critical Issues"
+msgstr "Questions critiques"
+
+#: dashboard/dashboard.php:142
+msgid "Dashboard => Anti Bots => Settings"
+msgstr "Tableau de bord => Anti Bots => Paramètres"
+
+#: functions/functions.php:335
+msgid "Dashboard => Anti Bots => Settings."
+msgstr "Tableau de bord => Anti Bots => Paramètres."
+
+#: includes/diagnose/class_bill_diagnose.php:3138
+msgid "Database Health Check"
+msgstr "Vérification de l'état de la base de données"
+
+#: functions/functions.php:326
+msgid "Date"
+msgstr "Date"
+
+#: includes/diagnose/class_bill_diagnose.php:1468
+msgid "day(s)"
+msgstr "jours)"
+
+#: dashboard/dashboard.php:203
+msgid "Days"
+msgstr "Jours"
+
+#: includes/diagnose/class_bill_diagnose.php:197
+msgid "Debug and Error Display Analysis"
+msgstr "Analyse de l'affichage du débogage et des erreurs"
+
+#: includes/diagnose/class_bill_diagnose.php:212
+msgid "Debug Settings: Good"
+msgstr "Paramètres de débogage : Bien"
+
+#: includes/diagnose/class_bill_diagnose.php:2687
+#: includes/diagnose/class_bill_diagnose.php:2744
+msgid ""
+"Describe your issue, or use the buttons below to check for errors or server "
+"settings..."
+msgstr ""
+"Décrivez votre problème ou utilisez les boutons ci-dessous pour vérifier les "
+"erreurs ou les paramètres du serveur..."
+
+#: functions/functions.php:322
+msgid "Detected Bot on"
+msgstr "Bot détecté sur"
+
+#: dashboard/mybanners.php:191
+msgid "Did you like the Antibots Plugin?"
+msgstr "Avez-vous aimé le plugin Antibots ?"
+
+#: includes/diagnose/class_bill_diagnose.php:202
+msgid "Disable WP_DEBUG on production sites to prevent information disclosure."
+msgstr ""
+"Désactivez WP_DEBUG sur les sites de production pour éviter toute "
+"divulgation d'informations."
+
+#: includes/diagnose/class_bill_diagnose.php:2657
+msgid ""
+"Disabling our plugin does not stop the errors from occurring; it simply "
+"means you will no longer be notified here that they are happening, but they "
+"can still harm your site."
+msgstr ""
+"La désactivation de notre plugin n'empêche pas les erreurs de se produire ; "
+"cela signifie simplement que vous ne serez plus averti ici qu'elles se "
+"produisent, mais elles peuvent toujours nuire à votre site."
+
+#: includes/diagnose/class_bill_diagnose.php:206
+msgid "Display Errors is On"
+msgstr "L'affichage des erreurs est activé"
+
+#: settings/options/plugin_options_tabbed.php:90
+msgid "Do you want receive email alerts for each bot attempt?"
+msgstr ""
+"Voulez-vous recevoir des alertes par e-mail pour chaque tentative de bot ?"
+
+#: settings/options/plugin_options_tabbed.php:104
+msgid "Email and Notifications"
+msgstr "Courriel et notifications"
+
+#: functions/functions.php:330
+msgid "eMail sent by Anti Bots Plugin."
+msgstr "e-mail envoyé par le plugin Anti Bots."
+
+#: table/visitors_render.php:20
+msgid "Empty Table. Please, try again later."
+msgstr "Tableau vide. Veuillez réessayer plus tard."
+
+#: settings/options/plugin_options_tabbed.php:64
+msgid "Enable Both Withelist?"
+msgstr "Activer les deux listes de désabonnement ?"
+
+#: includes/diagnose/class_bill_diagnose.php:277
+msgid "Enable it in php.ini to improve WordPress performance."
+msgstr ""
+"Activez cette option dans le fichier php.ini pour améliorer les performances "
+"de WordPress."
+
+#: includes/diagnose/class_bill_diagnose.php:2697
+msgid ""
+"Enter a message and click 'Send', or just click 'Auto Checkup' to analyze "
+"error log or server info configuration."
+msgstr ""
+"Saisissez un message et cliquez sur « Envoyer », ou cliquez simplement sur "
+"« Vérification automatique » pour analyser le journal des erreurs ou la "
+"configuration des informations du serveur."
+
+#: includes/chat/class_bill_chat.php:727
+msgid ""
+"Error contacting the Artificial Intelligence (API). Please try again later."
+msgstr ""
+"Erreur lors de la prise de contact avec l'intelligence artificielle (API). "
+"Veuillez réessayer ultérieurement."
+
+#: includes/chat/class_bill_chat.php:49
+msgid "Error processing server response:"
+msgstr "Erreur lors du traitement de la réponse du serveur :"
+
+#: includes/chat/class_bill_chat.php:46
+msgid "Error resetting chat messages."
+msgstr "Erreur lors de la réinitialisation des messages de discussion."
+
+#: includes/chat/class_bill_chat.php:52
+msgid "Error sending the message. Please try again later."
+msgstr "Erreur lors de l'envoi du message. Veuillez réessayer ultérieurement."
+
+#: includes/chat/class_bill_chat.php:863
+msgid "Error to get response from AI source!"
+msgstr "Erreur lors de l'obtention d'une réponse de la source AI !"
+
+#: includes/diagnose/class_bill_diagnose.php:2598
+msgid "Error Type"
+msgstr "Type d'erreur"
+
+#: includes/diagnose/class_bill_diagnose.php:3086
+msgid "Errors, Warnings, & JS Issues"
+msgstr "Erreurs, avertissements et problèmes JS"
+
+#: includes/diagnose/class_bill_diagnose.php:248
+msgid "Execution Time Analysis"
+msgstr "Analyse du temps d'exécution"
+
+#: includes/diagnose/class_bill_diagnose.php:1602
+msgid "File not readable."
+msgstr "Fichier illisible."
+
+#: includes/diagnose/class_bill_diagnose.php:1682
+msgid "File Size: "
+msgstr "Taille du fichier:"
+
+#: settings/options/plugin_options_tabbed.php:81
+msgid "Fill out the email address to send messages."
+msgstr "Remplissez l'adresse e-mail pour envoyer des messages."
+
+#: functions/functions.php:437
+msgid "For details and help, take a look at Anti Bots at your left menu"
+msgstr ""
+"Pour plus de détails et d'aide, consultez Anti Bots dans votre menu de gauche"
+
+#: settings/options/plugin_options_tabbed.php:55
+msgid "For IP withelist, just add the IP to unblock it."
+msgstr "Pour la liste noire IP, ajoutez simplement l'IP pour la débloquer."
+
+#: dashboard/dashboard.php:115
+msgid ""
+"For large-scale or persistent bot attacks, we recommend our more powerful "
+"(and also free) plugin, StopBadBots. It is specifically designed to handle "
+"high-volume threats."
+msgstr ""
+"Pour les attaques de bots à grande échelle ou persistantes, nous "
+"recommandons notre plugin plus puissant (et gratuit), StopBadBots. Il est "
+"spécialement conçu pour gérer les menaces à haut volume."
+
+#: functions/functions.php:232
+msgid "for more details, Support and online guide."
+msgstr "pour plus de détails, support et guide en ligne."
+
+#: dashboard/dashboard.php:147 dashboard/dashboard.php:165
+msgid "Go"
+msgstr "Aller"
+
+#: functions/functions.php:214
+msgid ""
+"Go to Dashboard Page for more information, Online Guide and Support. (WP "
+"Dashboard => Anti Bots = Dashboard)"
+msgstr ""
+"Accédez à la page du tableau de bord pour plus d'informations, un guide en "
+"ligne et une assistance. (Tableau de bord WP => Anti Bots = Tableau de bord)"
+
+#: dashboard/dashboard.php:37
+msgid "Go to Settings to enable it."
+msgstr "Accédez aux paramètres pour l'activer."
+
+#: functions/functions.php:221
+msgid ""
+"Go to Visitors Log Page for details about the visits. (WP Dashboard => Anti "
+"Bots = Visitors Log)"
+msgstr ""
+"Accédez à la page du journal des visiteurs pour plus de détails sur les "
+"visites. (Tableau de bord WP => Anti Bots = Journal des visiteurs)"
+
+#: includes/diagnose/class_bill_diagnose.php:1524
+msgid ""
+"Hackers look for vulnerabilities to access your server. Even small sites are "
+"targets—they use your server to send spam and attack others, damaging your "
+"IP and email reputation."
+msgstr ""
+"Les pirates informatiques recherchent des vulnérabilités pour accéder à "
+"votre serveur. Même les petits sites sont des cibles : ils utilisent votre "
+"serveur pour envoyer du spam et attaquer d'autres sites, endommageant ainsi "
+"votre adresse IP et votre réputation de messagerie."
+
+#: dashboard/main.php:63
+msgid "Help and Support Page"
+msgstr "Page d'aide et de support"
+
+#: includes/diagnose/class_bill_diagnose.php:1464
+msgid "hour(s)"
+msgstr "heures)"
+
+#: dashboard/dashboard.php:211
+msgid "Hours"
+msgstr "Heures"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://antibotsplugin.com"
+msgstr "http://antibotsplugin.com"
+
+#: includes/diagnose/class_bill_diagnose.php:1529
+msgid ""
+"If you doubt the accuracy of the table below, check with your hosting "
+"provider or check the IPs with the site https://ipinfo.io."
+msgstr ""
+"Si vous doutez de l'exactitude du tableau ci-dessous, vérifiez auprès de "
+"votre hébergeur ou vérifiez les IP avec le site https://ipinfo.io."
+
+#: guide/guide.php:18
+msgid ""
+"If you mark Yes, the plugin begin to block the bots right away. Please, read "
+"all this page before click Yes."
+msgstr ""
+"Si vous cochez Oui, le plugin commence immédiatement à bloquer les robots. "
+"Veuillez lire toute cette page avant de cliquer sur Oui."
+
+#: guide/guide.php:71
+msgid ""
+"If you need more info about each bot or IP, visit the site www.StopBadBots."
+"com (page Bots Table and Boats Table by IP)"
+msgstr ""
+"Si vous avez besoin de plus d'informations sur chaque bot ou IP, visitez le "
+"site www.StopBadBots.com (page Bots Table et Boats Table by IP)"
+
+#: settings/options/plugin_options_tabbed.php:92
+msgid "If you under brute force attack, you will receive a lot of emails."
+msgstr ""
+"Si vous êtes victime d'une attaque par force brute, vous recevrez de "
+"nombreux e-mails."
+
+#: dashboard/mybanners.php:202
+msgid ""
+"If you use & enjoy Antibots Plugin, please rate it on WordPress.org. It only "
+"takes a second and helps us keep the plugin live and maintained. Thank you!"
+msgstr ""
+"Si vous utilisez et appréciez l'extension Antibots, merci de l'évaluer sur "
+"WordPress.org. Cela ne prend qu'une seconde et nous aide à la maintenir en "
+"ligne. Merci !"
+
+#: guide/guide.php:64
+msgid ""
+"If you use RSS FEED services, probably they have their bot to read your "
+"feeds."
+msgstr ""
+"Si vous utilisez des services RSS FEED, ils ont probablement leur propre bot "
+"pour lire vos flux."
+
+#: includes/diagnose/class_bill_diagnose.php:217
+msgid "Image Processing Analysis"
+msgstr "Analyse du traitement d'images"
+
+#: includes/diagnose/class_bill_diagnose.php:220
+msgid "ImageMagick Available"
+msgstr "ImageMagick disponible"
+
+#: includes/diagnose/class_bill_diagnose.php:221
+msgid ""
+"ImageMagick extension is installed, which provides better image processing "
+"capabilities."
+msgstr ""
+"L'extension ImageMagick est installée, offrant de meilleures capacités de "
+"traitement d'image."
+
+#: includes/diagnose/class_bill_diagnose.php:224
+msgid "ImageMagick Not Available"
+msgstr "ImageMagick non disponible"
+
+#: includes/diagnose/class_bill_diagnose.php:282
+msgid "Install and enable Zend OPcache for major performance improvements."
+msgstr ""
+"Installez et activez Zend OPcache pour des améliorations majeures des "
+"performances."
+
+#: includes/diagnose/class_bill_diagnose.php:294
+msgid "Install the object cache drop-in to enable database caching."
+msgstr ""
+"Installez le module complémentaire de cache d'objets pour activer la mise en "
+"cache de la base de données."
+
+#: dashboard/dashboard.php:96
+msgid "Install with one click!"
+msgstr "Installez en un clic !"
+
+#: settings/options/plugin_options_tabbed.php:59
+msgid "Instructions about User Agent String and IP Whitelist."
+msgstr ""
+"Instructions sur la chaîne de l'agent utilisateur et la liste blanche IP."
+
+#: includes/chat/class_bill_chat.php:47
+msgid "Invalid message received:"
+msgstr "Message invalide reçu :"
+
+#: includes/chat/class_bill_chat.php:48
+msgid "Invalid response format:"
+msgstr "Format de réponse non valide :"
+
+#: includes/diagnose/class_bill_diagnose.php:1622
+msgid "Invalid size."
+msgstr "Taille invalide."
+
+#: settings/options/plugin_options_tabbed.php:78
+msgid "IP whitelist."
+msgstr "Liste blanche IP."
+
+#: guide/guide.php:55
+msgid ""
+"It is only a simulation to help you to create your particular whitelist."
+msgstr ""
+"Il s'agit simplement d'une simulation pour vous aider à créer votre liste "
+"blanche particulière."
+
+#: guide/guide.php:76
+msgid "It is up to you determine what bot is beneficial or detrimental."
+msgstr "C'est à vous de déterminer quel bot est bénéfique ou nuisible."
+
+#: settings/options/plugin_options_tabbed.php:53
+msgid "Just add one string to unblock all User Agent that contain that string."
+msgstr ""
+"Ajoutez simplement une chaîne pour débloquer tous les agents utilisateurs "
+"qui contiennent cette chaîne."
+
+#: dashboard/dashboard.php:139
+msgid "Just click Settings in the left menu (Anti Bots)."
+msgstr "Cliquez simplement sur Paramètres dans le menu de gauche (Anti Bots)."
+
+#: settings/options/plugin_options_tabbed.php:36
+msgid "Keep Visitor Record Max"
+msgstr "Conserver le registre des visiteurs au maximum"
+
+#: guide/guide.php:16
+msgid "Keep your site in Test Mode a couple of days."
+msgstr "Gardez votre site en mode test pendant quelques jours."
+
+#. General recommendation text
+#: includes/diagnose/class_bill_diagnose.php:1296
+msgid ""
+"Keeping your plugins up to date is crucial for ensuring security, "
+"performance, and compatibility."
+msgstr ""
+"Maintenir vos plugins à jour est essentiel pour garantir la sécurité, les "
+"performances et la compatibilité."
+
+#: dashboard/dashboard.php:119
+msgid "Learn about StopBadBots"
+msgstr "En savoir plus sur StopBadBots"
+
+#: includes/diagnose/class_bill_diagnose.php:2591
+#: includes/diagnose/class_bill_diagnose.php:2880
+#: includes/diagnose/class_bill_diagnose.php:2976
+msgid "Learn More"
+msgstr "Apprendre encore plus"
+
+#: includes/diagnose/class_bill_diagnose.php:1058
+msgid "Learn more"
+msgstr "Apprendre encore plus"
+
+#: includes/diagnose/class_bill_diagnose.php:1223
+msgid ""
+"Learn more about Page Load Times and their negative impact on SEO and more"
+msgstr ""
+"En savoir plus sur les temps de chargement des pages et leur impact négatif "
+"sur le référencement et plus encore"
+
+#: settings/options/plugin_options_tabbed.php:83
+msgid ""
+"Left Blank to use your default WordPress email. Then, click save changes."
+msgstr ""
+"Laissez ce champ vide pour utiliser votre e-mail WordPress par défaut. "
+"Cliquez ensuite sur Enregistrer les modifications."
+
+#: includes/diagnose/class_bill_diagnose.php:1189
+msgid "Loading time can significantly impact your SEO."
+msgstr ""
+"Le temps de chargement peut avoir un impact significatif sur votre "
+"référencement."
+
+#: includes/diagnose/class_bill_diagnose.php:261
+msgid "Low execution time limit may cause timeout issues."
+msgstr ""
+"Une limite de temps d'exécution trop basse peut entraîner des problèmes de "
+"délai d'attente."
+
+#: includes/diagnose/class_bill_diagnose.php:2807
+msgid "Low WordPress Memory Limit - CRITICAL"
+msgstr "Faible limite de mémoire WordPress - CRITIQUE"
+
+#: includes/diagnose/class_bill_diagnose.php:1194
+msgid "Many users will abandon the site before it fully loads."
+msgstr ""
+"De nombreux utilisateurs abandonneront le site avant qu'il ne soit "
+"complètement chargé."
+
+#: settings/options/plugin_options_tabbed.php:16
+msgid ""
+"Mark Test Mode and the plugin will create a log of visitors and statistics "
+"but doesn't block any bot."
+msgstr ""
+"Sélectionnez le mode test et le plugin créera un journal des visiteurs et "
+"des statistiques mais ne bloquera aucun bot."
+
+#: settings/options/plugin_options_tabbed.php:13
+msgid "Mark Yes and the plugin will block bots right away."
+msgstr "Cochez Oui et le plugin bloquera immédiatement les robots."
+
+#: guide/guide.php:61
+msgid ""
+"Maybe you will find, for example, some website checker/monitor or payment "
+"service\n"
+" (Autorize.net, Amazon or other)."
+msgstr ""
+"Peut-être trouverez-vous, par exemple, un outil de vérification/surveillance "
+"de sites Web ou un service de paiement\n"
+"(Autorize.net, Amazon ou autre)."
+
+#: includes/diagnose/class_bill_diagnose.php:53
+msgid "Memory & Error Monitoring"
+msgstr "Surveillance de la mémoire et des erreurs"
+
+#: includes/diagnose/class_bill_diagnose.php:1460
+msgid "minutes"
+msgstr "minutes"
+
+#: includes/diagnose/class_bill_diagnose.php:2950
+msgid "Miscellaneous"
+msgstr "Divers"
+
+#: includes/diagnose/class_bill_diagnose.php:257
+msgid "Moderate execution time - sufficient for standard operations."
+msgstr "Temps d'exécution modéré – suffisant pour les opérations standard."
+
+#: includes/diagnose/class_bill_diagnose.php:258
+msgid "Monitor for timeout issues with resource-intensive plugins."
+msgstr ""
+"Surveillez les problèmes de délai d'attente des plugins gourmands en "
+"ressources."
+
+#: includes/diagnose/class_bill_diagnose.php:1476
+msgid "month(s)"
+msgstr "mois)"
+
+#: settings/options/plugin_options_tabbed.php:67
+#: settings/options/plugin_options_tabbed.php:101
+msgid "no"
+msgstr "Non"
+
+#: dashboard/topips_24.php:18
+msgid "No bots blocked by IP. Please, try again later"
+msgstr "Aucun robot bloqué par IP. Veuillez réessayer plus tard"
+
+#: includes/diagnose/class_bill_diagnose.php:298
+msgid "No persistent object cache detected (APCu, Redis, Memcached)."
+msgstr "Aucun cache d'objets persistant détecté (APCu, Redis, Memcached)."
+
+#: includes/diagnose/class_bill_diagnose.php:1512
+msgid "Number of last attacks: "
+msgstr "Nombre de dernières attaques :"
+
+#: includes/diagnose/class_bill_diagnose.php:297
+msgid "Object Cache: Not Available"
+msgstr "Cache d'objets : non disponible"
+
+#: guide/guide.php:110
+msgid "OnLine Guide"
+msgstr "Guide en ligne"
+
+#: dashboard/dashboard.php:153
+msgid "OnLine Guide, Support, Faq..."
+msgstr "Guide en ligne, support, FAQ..."
+
+#: includes/diagnose/class_bill_diagnose.php:276
+msgid "OPcache is installed but not active in your PHP configuration."
+msgstr ""
+"OPcache est installé mais n'est pas actif dans votre configuration PHP."
+
+#: includes/diagnose/class_bill_diagnose.php:281
+msgid "OPcache is missing, which significantly impacts PHP performance."
+msgstr ""
+"OPcache est absent, ce qui a un impact significatif sur les performances de "
+"PHP."
+
+#: includes/diagnose/class_bill_diagnose.php:272
+msgid "OPcache is properly configured and improving PHP performance."
+msgstr ""
+"OPcache est correctement configuré et améliore les performances de PHP."
+
+#: includes/diagnose/class_bill_diagnose.php:271
+msgid "OPcache: Active"
+msgstr "OPcache : Actif"
+
+#: includes/diagnose/class_bill_diagnose.php:275
+msgid "OPcache: Installed but Inactive"
+msgstr "OPcache : installé mais inactif"
+
+#: includes/diagnose/class_bill_diagnose.php:280
+msgid "OPcache: Not Installed"
+msgstr "OPcache : Non installé"
+
+#: guide/guide.php:14
+msgid "Open the General Settings Tab and click over Test Mode."
+msgstr "Ouvrez l’onglet Paramètres généraux et cliquez sur Mode test."
+
+#: guide/guide.php:49
+msgid ""
+"Open the Visitors Table  (under Anti Bots Menu) and take a look at Visitors "
+"List."
+msgstr ""
+"Ouvrez le tableau des visiteurs (sous le menu Anti Bots) et jetez un œil à "
+"la liste des visiteurs."
+
+#: functions/functions.php:444
+msgid "or click here"
+msgstr "ou cliquez ici"
+
+#: includes/diagnose/class_bill_diagnose.php:1537
+#, php-format
+msgid ""
+"Our free <a href=\"%1$s\">antibots</a> and <a href=\"%2$s\">AntiHacker</a> "
+"plugins help safeguard your site."
+msgstr ""
+"Nos plugins <a href=\"%1$s\">antibots</a> et <a href=\"%2$s\">antihacker</a> "
+"gratuits aident à protéger votre site."
+
+#: includes/diagnose/class_bill_diagnose.php:1047
+msgid "Our plugin"
+msgstr "Notre plugin"
+
+#: functions/functions.php:275
+msgid "Overview"
+msgstr "Aperçu"
+
+#: includes/diagnose/class_bill_diagnose.php:2895
+#: includes/diagnose/class_bill_diagnose.php:3121
+msgid "Page Speed Report"
+msgstr "Rapport sur la vitesse des pages"
+
+#: includes/diagnose/class_bill_diagnose.php:230
+msgid "PHP Version Analysis"
+msgstr "Analyse de la version PHP"
+
+#: includes/diagnose/class_bill_diagnose.php:234
+#, php-format
+msgid "PHP Version: %s (Current)"
+msgstr "Version PHP : %s (Actuelle)"
+
+#: includes/diagnose/class_bill_diagnose.php:242
+#, php-format
+msgid "PHP Version: %s (Outdated)"
+msgstr "Version PHP : %s (Obsolète)"
+
+#: includes/diagnose/class_bill_diagnose.php:238
+#, php-format
+msgid "PHP Version: %s (Update Recommended)"
+msgstr "Version PHP : %s (Mise à jour recommandée)"
+
+#: includes/chat/class_bill_chat.php:53
+msgid "Please enter a message!"
+msgstr "Veuillez entrer un message !"
+
+#: dashboard/mybanners.php:199
+msgid "Please help us keep the plugin live & up-to-date"
+msgstr "Aidez-nous à maintenir le plugin en ligne et à jour"
+
+#: dashboard/mybanners.php:193
+msgid ""
+"Please support us by rating our plugin on WordPress.org. Help us keep this "
+"plugin live and updated."
+msgstr ""
+"Merci de nous soutenir en évaluant notre plugin sur WordPress.org. Aidez-"
+"nous à maintenir ce plugin actif et à jour."
+
+#: settings/options/plugin_options_tabbed.php:14
+msgid "Please, read the StartUp Guide before mark yes."
+msgstr "Veuillez lire le Guide de démarrage avant de cocher « oui »."
+
+#: guide/guide.php:44
+msgid "Please, read this:"
+msgstr "S'il vous plaît, lisez ceci :"
+
+#: dashboard/botsgraph.php:12 dashboard/botsgraph_24.php:9
+msgid "Please, try again later."
+msgstr "Veuillez réessayer plus tard."
+
+#: includes/diagnose/class_bill_diagnose.php:3171
+msgid "Plugin & Themes Update Status"
+msgstr "État de mise à jour des plugins et des thèmes"
+
+#: dashboard/dashboard.php:109
+msgid "Plugin Recommendation"
+msgstr "Recommandation de plugin"
+
+#: functions/functions.php:230
+msgid "plugin site"
+msgstr "site de plugins"
+
+#: dashboard/dashboard.php:27
+msgid "Plugin Status"
+msgstr "Statut du plugin"
+
+#: includes/diagnose/class_bill_diagnose.php:2921
+msgid "Plugins & Themes Update Status"
+msgstr "État de mise à jour des plugins et des thèmes"
+
+#: includes/diagnose/class_bill_diagnose.php:1279
+msgid "Plugins with Updates Available"
+msgstr "Plugins avec mises à jour disponibles"
+
+#: includes/diagnose/class_bill_diagnose.php:1283
+msgid "Plugins with Updates Available - ATTENTION!"
+msgstr "Plugins avec mises à jour disponibles – ATTENTION !"
+
+#: includes/diagnose/class_bill_diagnose.php:2770
+msgid "Potential Problems"
+msgstr "Problèmes potentiels"
+
+#: includes/diagnose/class_bill_diagnose.php:1212
+msgid ""
+"Protect against hackers: They use bots to search for vulnerabilities and "
+"overload the server. Install our free plugin AntiHacker"
+msgstr ""
+"Protégez-vous des pirates : ils utilisent des robots pour détecter les "
+"vulnérabilités et surcharger le serveur. Installez notre plugin gratuit "
+"AntiHacker."
+
+#: dashboard/dashboard.php:36
+msgid "Protection Disabled"
+msgstr "Protection désactivée"
+
+#: dashboard/dashboard.php:33
+msgid "Protection Enabled"
+msgstr "Protection activée"
+
+#: dashboard/dashboard.php:19
+msgid "Quick Overview"
+msgstr "Aperçu rapide"
+
+#: dashboard/mybanners.php:196 dashboard/mybanners.php:205
+msgid "Rate"
+msgstr "Taux"
+
+#: functions/functions.php:207
+msgid ""
+"Read the StartUp guide at Anti Bots Settings page. (WP Dashboard => Anti "
+"Bots = Settings)"
+msgstr ""
+"Lisez le guide de démarrage sur la page Paramètres Anti Bots. (Tableau de "
+"bord WP => Anti Bots = Paramètres)"
+
+#: guide/guide.php:37
+msgid "Remember to click Save Changes before to left each tab."
+msgstr ""
+"N'oubliez pas de cliquer sur Enregistrer les modifications avant de quitter "
+"chaque onglet."
+
+#: guide/guide.php:65
+msgid "Remember to Whitelist their bot."
+msgstr "N'oubliez pas de mettre leur bot sur liste blanche."
+
+#: guide/guide.php:52
+msgid ""
+"Response Code 404 (not found) they are not caused by our plugin. The plugin "
+"just record that happens to alert you."
+msgstr ""
+"Code de réponse 404 (non trouvé) ils ne sont pas causés par notre plugin. Le "
+"plugin enregistre simplement ce qui se passe pour vous alerter."
+
+#: includes/chat/class_bill_chat.php:50
+msgid "Response is not valid JSON."
+msgstr "La réponse n'est pas un JSON valide."
+
+#: functions/functions.php:328
+msgid "Robot IP Address"
+msgstr "Adresse IP du robot"
+
+#: guide/guide.php:66
+msgid ""
+"Same thing if you create some smartphone APP. Talk with them to know more "
+"about their bots (as name, for example)."
+msgstr ""
+"Même chose si vous créez une application pour smartphone. Parlez avec eux "
+"pour en savoir plus sur leurs bots (comme nom, par exemple)."
+
+#: includes/diagnose/class_bill_diagnose.php:1199
+msgid ""
+"Search engines prioritize faster-loading pages, as they improve user "
+"experience and reduce bounce rates."
+msgstr ""
+"Les moteurs de recherche privilégient les pages à chargement plus rapide, "
+"car elles améliorent l'expérience utilisateur et réduisent les taux de "
+"rebond."
+
+#: includes/diagnose/class_bill_diagnose.php:1456
+msgid "seconds"
+msgstr "secondes"
+
+#: includes/diagnose/class_bill_diagnose.php:2691
+#: includes/diagnose/class_bill_diagnose.php:2745
+msgid "Send"
+msgstr "Envoyer"
+
+#: includes/diagnose/class_bill_diagnose.php:2910
+#: includes/diagnose/class_bill_diagnose.php:3154
+msgid "Server Health & Config Status"
+msgstr "État de santé et de configuration du serveur"
+
+#: includes/diagnose/class_bill_diagnose.php:208
+msgid "Set display_errors to Off in production and use error logging instead."
+msgstr ""
+"Désactivez l'affichage des erreurs en production et utilisez plutôt la "
+"journalisation des erreurs."
+
+#: includes/diagnose/class_bill_diagnose.php:207
+msgid ""
+"Showing PHP errors on screen can reveal sensitive path information and "
+"system details."
+msgstr ""
+"L'affichage des erreurs PHP à l'écran peut révéler des informations "
+"sensibles sur les chemins d'accès et des détails système."
+
+#: includes/diagnose/class_bill_diagnose.php:2971
+msgid "Site Errors"
+msgstr "Erreurs du site"
+
+#. Tab heading for Site Health navigation.
+#: includes/diagnose/class_bill_diagnose.php:1075
+msgctxt "Site Health"
+msgid "Critical Issues"
+msgstr "Questions critiques"
+
+#: includes/diagnose/class_bill_diagnose.php:1607
+msgid "Size not determined."
+msgstr "Taille non déterminée."
+
+#: guide/guide.php:68
+msgid ""
+"Some search engine or social media, like Telegram, Whatsapp, Qwant, Mail.ru, "
+"LinkedIn, bitlybot, Applebot, AppleNewsBot, SkypeUriPreview, FacebookBot, "
+"twitterbot, vkShare\n"
+"for example, sometimes send bots with empty user agent (or another bad "
+"practice) and our system catch them."
+msgstr ""
+"Certains moteurs de recherche ou réseaux sociaux, comme Telegram, Whatsapp, "
+"Qwant, Mail.ru, LinkedIn, bitlybot, Applebot, AppleNewsBot, SkypeUriPreview, "
+"FacebookBot, twitterbot, vkShare\n"
+"par exemple, envoient parfois des bots avec un agent utilisateur vide (ou "
+"une autre mauvaise pratique) et notre système les détecte."
+
+#: dashboard/dashboard.php:135
+msgid "Start Up Guide and Settings"
+msgstr "Guide de démarrage et paramètres"
+
+#: settings/options/plugin_options_tabbed.php:73
+msgid "String whitelist (no case sensitive)"
+msgstr ""
+"Liste blanche de chaînes (pas de distinction entre les majuscules et les "
+"minuscules)"
+
+#: includes/diagnose/class_bill_diagnose.php:1206
+msgid "Suggestions:"
+msgstr "Suggestions:"
+
+#: guide/guide.php:112
+msgid "Support Page"
+msgstr "Page d'assistance"
+
+#: includes/diagnose/class_bill_diagnose.php:3035
+#, php-format
+msgid ""
+"The %s Monitors server and configuration conditions for reliable plugin "
+"performance."
+msgstr ""
+"Le %s surveille les conditions du serveur et de la configuration pour des "
+"performances de plug-in fiables."
+
+#: includes/diagnose/class_bill_diagnose.php:1183
+#: includes/diagnose/class_bill_diagnose.php:1230
+msgid "The Load average of your front pages is: "
+msgstr "La charge moyenne de vos pages d'accueil est :"
+
+#: includes/diagnose/class_bill_diagnose.php:1139
+#: includes/diagnose/class_bill_diagnose.php:1146
+msgid "The page load time is Excellent."
+msgstr "Le temps de chargement de la page est excellent."
+
+#: includes/diagnose/class_bill_diagnose.php:1153
+msgid "The page load time is Good."
+msgstr "Le temps de chargement de la page est bon."
+
+#: includes/diagnose/class_bill_diagnose.php:1167
+msgid "The page load time is Poor"
+msgstr "Le temps de chargement de la page est médiocre"
+
+#: includes/diagnose/class_bill_diagnose.php:1160
+msgid "The page load time is Regular"
+msgstr "Le temps de chargement de la page est normal"
+
+#: includes/diagnose/class_bill_diagnose.php:1171
+msgid "The page load time is Very Poor"
+msgstr "Le temps de chargement de la page est très médiocre"
+
+#: guide/guide.php:85
+msgid "The Plugin doesn't block main Google, Yahoo and Bing (Microsoft)."
+msgstr ""
+"Le plugin ne bloque pas les principaux moteurs de recherche Google, Yahoo et "
+"Bing (Microsoft)."
+
+#: includes/diagnose/class_bill_diagnose.php:1346
+msgid "Themes with Updates Available"
+msgstr "Thèmes avec mises à jour disponibles"
+
+#: includes/diagnose/class_bill_diagnose.php:1353
+msgid "Themes with Updates Available - ATTENTION!"
+msgstr "Thèmes avec mises à jour disponibles – ATTENTION !"
+
+#: settings/options/plugin_options_tabbed.php:18
+msgid "Then click SAVE CHANGES."
+msgstr "Cliquez ensuite sur ENREGISTRER LES MODIFICATIONS."
+
+#: includes/diagnose/class_bill_diagnose.php:3229
+msgid ""
+"These are critical issues that can have a significant impact on your site's "
+"performance. They can cause many plugins and functionalities to malfunction "
+"and, in some cases, render your site completely inoperative, depending on "
+"their severity. Address them promptly."
+msgstr ""
+"Il s'agit de problèmes critiques qui peuvent avoir un impact significatif "
+"sur les performances de votre site. Ils peuvent entraîner le "
+"dysfonctionnement de nombreux plugins et fonctionnalités, voire, dans "
+"certains cas, rendre votre site totalement inopérant, selon leur gravité. "
+"Résolvez-les rapidement."
+
+#: includes/diagnose/class_bill_diagnose.php:254
+msgid "This allows plugins and themes to complete complex tasks."
+msgstr ""
+"Cela permet aux plugins et aux thèmes d'accomplir des tâches complexes."
+
+#: includes/diagnose/class_bill_diagnose.php:201
+msgid ""
+"This exposes sensitive information to users and should only be used in "
+"development environments."
+msgstr ""
+"Cela expose des informations sensibles aux utilisateurs et ne devrait être "
+"utilisé que dans des environnements de développement."
+
+#: includes/diagnose/class_bill_diagnose.php:290
+msgid "This improves database performance by caching query results."
+msgstr ""
+"Cela améliore les performances de la base de données en mettant en cache les "
+"résultats des requêtes."
+
+#: includes/diagnose/class_bill_diagnose.php:222
+msgid "This improves image quality and performance for media operations."
+msgstr ""
+"Cela améliore la qualité d'image et les performances des opérations "
+"multimédias."
+
+#: includes/diagnose/class_bill_diagnose.php:1643
+msgid "This is a partial list of the errors found."
+msgstr "Ceci est une liste partielle des erreurs trouvées."
+
+#: includes/diagnose/class_bill_diagnose.php:46
+msgid ""
+"This panel provides a comprehensive health status of your WordPress site, "
+"covering vital areas. Monitor for errors, low memory, and slow page speed. "
+"See real-time checks for database health, server configuration, and critical "
+"security issues (bots/attacks). Use the built-in AI support for instant "
+"troubleshooting. For deeper diagnosis, install the free WPTools plugin."
+msgstr ""
+"Ce panneau fournit un état de santé complet de votre site WordPress, "
+"couvrant les aspects essentiels. Surveillez les erreurs, les problèmes de "
+"mémoire et la lenteur des pages. Consultez des contrôles en temps réel de "
+"l'état de la base de données, de la configuration du serveur et des "
+"problèmes de sécurité critiques (bots/attaques). Utilisez l'IA intégrée pour "
+"un dépannage instantané. Pour un diagnostic plus approfondi, installez "
+"l'extension gratuite WPTools."
+
+#: dashboard/dashboard.php:113
+msgid ""
+"This plugin offers lightweight and effective protection, ideal for sites "
+"facing low to moderate bot traffic."
+msgstr ""
+"Ce plugin offre une protection légère et efficace, idéale pour les sites "
+"confrontés à un trafic de robots faible à modéré."
+
+#: includes/diagnose/class_bill_diagnose.php:236
+msgid "This provides better performance and security features."
+msgstr ""
+"Cela offre de meilleures performances et des fonctionnalités de sécurité "
+"améliorées."
+
+#: includes/diagnose/class_bill_diagnose.php:2652
+msgid ""
+"This report provides detailed health checks covering errors, memory, "
+"performance, database status, server config, updates, and security, courtesy "
+"of the plugin"
+msgstr ""
+"Ce rapport fournit des contrôles de santé détaillés couvrant les erreurs, la "
+"mémoire, les performances, l'état de la base de données, la configuration du "
+"serveur, les mises à jour et la sécurité, grâce au plugin"
+
+#: includes/diagnose/class_bill_diagnose.php:273
+msgid "This significantly speeds up PHP execution by caching compiled scripts."
+msgstr ""
+"Cela accélère considérablement l'exécution de PHP en mettant en cache les "
+"scripts compilés."
+
+#: includes/diagnose/class_bill_diagnose.php:252
+#: includes/diagnose/class_bill_diagnose.php:256
+#: includes/diagnose/class_bill_diagnose.php:260
+#, php-format
+msgid "Time Limit: %s seconds"
+msgstr "Limite de temps : %s secondes"
+
+#: dashboard/dashboard.php:182
+msgid "Top Bots Blocked Last 15 Days"
+msgstr "Les meilleurs robots bloqués au cours des 15 derniers jours"
+
+#: dashboard/dashboard.php:186
+msgid "Top Bots Blocked Last 24 Hours"
+msgstr "Les meilleurs robots bloqués au cours des dernières 24 heures"
+
+#: dashboard/dashboard.php:206
+msgid "Total Bots Blocked Last 12 Hours"
+msgstr "Nombre total de robots bloqués au cours des 12 dernières heures"
+
+#: dashboard/dashboard.php:200
+msgid "Total Bots Blocked Last 15 Days"
+msgstr "Nombre total de robots bloqués au cours des 15 derniers jours"
+
+#: includes/diagnose/class_bill_diagnose.php:2836
+msgid "Total Php Server Memory"
+msgstr "Mémoire totale du serveur PHP"
+
+#: dashboard/dashboard.php:171
+msgid "Troubleshooting Guide"
+msgstr "Guide de dépannage"
+
+#: dashboard/dashboard.php:175 guide/guide.php:114
+msgid "Troubleshooting Page"
+msgstr "Page de dépannage"
+
+#: guide/guide.php:78
+msgid ""
+"Unfortunately the amount of bots is growing vertiginously. They can overload "
+"your site and you need invest time to manage this."
+msgstr ""
+"Malheureusement, le nombre de robots augmente de façon vertigineuse. Ils "
+"peuvent surcharger votre site et vous devez investir du temps pour gérer "
+"cela."
+
+#: includes/diagnose/class_bill_diagnose.php:244
+msgid ""
+"Update to PHP 8.2+ immediately for security and performance improvements."
+msgstr ""
+"Mettez à jour immédiatement vers PHP 8.2+ pour bénéficier d'améliorations en "
+"matière de sécurité et de performances."
+
+#. General recommendation text for themes
+#: includes/diagnose/class_bill_diagnose.php:1367
+msgid ""
+"Updating themes is vital for security and compatibility with the current "
+"version of WordPress."
+msgstr ""
+"La mise à jour des thèmes est essentielle pour la sécurité et la "
+"compatibilité avec la version actuelle de WordPress."
+
+#: includes/diagnose/class_bill_diagnose.php:2662
+msgid ""
+"Use the free chat below to get more instant details and tips on how to "
+"improve your site."
+msgstr ""
+"Utilisez le chat gratuit ci-dessous pour obtenir plus de détails et de "
+"conseils instantanés sur la façon d'améliorer votre site."
+
+#: functions/functions.php:327
+msgid "User Agent"
+msgstr "Agent utilisateur"
+
+#: includes/diagnose/class_bill_diagnose.php:3090
+msgid "View all PHP errors, system warnings, and JavaScript issues."
+msgstr ""
+"Afficher toutes les erreurs PHP, les avertissements système et les problèmes "
+"JavaScript."
+
+#: includes/diagnose/class_bill_diagnose.php:3125
+msgid "View page load metrics and suggested actions for improvement."
+msgstr ""
+"Afficher les mesures de chargement des pages et les actions suggérées pour "
+"les améliorer."
+
+#: includes/diagnose/class_bill_diagnose.php:3214
+msgid "View statistics on detected bots and hacker attacks."
+msgstr ""
+"Consultez les statistiques sur les robots détectés et les attaques de "
+"pirates informatiques."
+
+#: includes/diagnose/class_bill_diagnose.php:3142
+msgid "View the status of database tables and identify potential issues."
+msgstr ""
+"Affichez l’état des tables de base de données et identifiez les problèmes "
+"potentiels."
+
+#: includes/diagnose/class_bill_diagnose.php:3108
+msgid "View your WordPress memory limit and current consumption."
+msgstr ""
+"Affichez votre limite de mémoire WordPress et votre consommation actuelle."
+
+#: functions/functions.php:227
+msgid "Visit the"
+msgstr "Visitez le"
+
+#: guide/guide.php:107
+msgid ""
+"Visit the plugin site for more detail, online guide, FAQ and Troubleshooting "
+"page and bot's and IP's details."
+msgstr ""
+"Visitez le site du plugin pour plus de détails, un guide en ligne, une page "
+"FAQ et de dépannage ainsi que les détails des bots et des IP."
+
+#: functions/functions.php:280
+msgid "Visitors Log"
+msgstr "Journal des visiteurs"
+
+#: table/visitors_render.php:37
+msgid "Visits Log"
+msgstr "Journal des visites"
+
+#: includes/diagnose/class_bill_diagnose.php:1472
+msgid "week(s)"
+msgstr "semaine(s)"
+
+#: includes/diagnose/class_bill_diagnose.php:56
+msgid "Welcome to plugin Insights!"
+msgstr "Bienvenue dans le plugin Insights !"
+
+#: guide/guide.php:54
+msgid ""
+"When the plugin is running in test mode, you can see Response 403 (blocked) "
+"in table but the bots are not really blocked."
+msgstr ""
+"Lorsque le plugin s'exécute en mode test, vous pouvez voir la réponse 403 "
+"(bloquée) dans le tableau mais les robots ne sont pas vraiment bloqués."
+
+#: dashboard/dashboard.php:223
+msgid "With our plugin, many blocked bots will give up of attack your site !"
+msgstr ""
+"Avec notre plugin, de nombreux robots bloqués renonceront à attaquer votre "
+"site !"
+
+#: includes/diagnose/class_bill_diagnose.php:2801
+#: includes/diagnose/class_bill_diagnose.php:3104
+msgid "WordPress Memory Status"
+msgstr "État de la mémoire WordPress"
+
+#: includes/diagnose/class_bill_diagnose.php:226
+msgid "WordPress will use GD library as fallback for image operations."
+msgstr ""
+"WordPress utilisera la bibliothèque GD comme solution de repli pour les "
+"opérations sur les images."
+
+#: includes/diagnose/class_bill_diagnose.php:213
+msgid "WP_DEBUG is disabled and errors are not displayed publicly."
+msgstr ""
+"WP_DEBUG est désactivé et les erreurs ne sont pas affichées publiquement."
+
+#: includes/diagnose/class_bill_diagnose.php:200
+msgid "WP_DEBUG is Enabled"
+msgstr "WP_DEBUG est activé"
+
+#: settings/options/plugin_options_tabbed.php:66
+#: settings/options/plugin_options_tabbed.php:100
+msgid "yes"
+msgstr "Oui"
+
+#: includes/diagnose/class_bill_diagnose.php:235
+msgid "You are running a current PHP version with active security support."
+msgstr ""
+"Vous utilisez une version PHP à jour avec un support de sécurité actif."
+
+#: includes/diagnose/class_bill_diagnose.php:243
+msgid ""
+"You are running an outdated PHP version that may have security "
+"vulnerabilities."
+msgstr ""
+"Vous utilisez une version de PHP obsolète qui peut présenter des failles de "
+"sécurité."
+
+#: functions/functions.php:331
+msgid "You can antibots emails at the Notifications Settings Tab."
+msgstr ""
+"Vous pouvez bloquer les e-mails dans l'onglet Paramètres des notifications."
+
+#: settings/options/plugin_options_tabbed.php:51
+msgid "You can create 2 whitelist in this page: String and IP."
+msgstr "Vous pouvez créer 2 listes blanches sur cette page : chaîne et IP."
+
+#: guide/guide.php:23
+msgid "You can go to WhiteList tab and manage  String and IP tables. "
+msgstr ""
+"Vous pouvez accéder à l’onglet Liste blanche et gérer les tables de chaînes "
+"et d’IP."
+
+#: guide/guide.php:34
+msgid ""
+"You can record your option by receive or not email alerts about bots "
+"attempts."
+msgstr ""
+"Vous pouvez enregistrer votre choix en recevant ou non des alertes par email "
+"sur les tentatives de bots."
+
+#: guide/guide.php:50
+msgid "You can see bots blocked (Response Code = 403 - Forbidden -)."
+msgstr ""
+"Vous pouvez voir les bots bloqués (Code de réponse = 403 - Interdit -)."
+
+#: settings/options/plugin_options_tabbed.php:94
+msgid ""
+"You can see the bots attacks info at Visitors Log Table. (column Num Blocked)"
+"."
+msgstr ""
+"Vous pouvez voir les informations sur les attaques de robots dans le tableau "
+"du journal des visiteurs. (colonne Nombre bloqué)."
+
+#: guide/guide.php:82
+msgid "You don't need create any robots.txt or htaccess file. "
+msgstr "Vous n'avez pas besoin de créer de fichier robots.txt ou htaccess."
+
+#: dashboard/dashboard.php:157
+msgid ""
+"You will find our complete and updated OnLine guide, faqs page, link to "
+"support and more in our site."
+msgstr ""
+"Vous trouverez notre guide en ligne complet et mis à jour, notre page FAQ, "
+"notre lien vers le support et plus encore sur notre site."
+
+#: settings/options/plugin_options_tabbed.php:78
+msgid "Your Current IP:"
+msgstr "Votre IP actuelle :"
+
+#: includes/diagnose/class_bill_diagnose.php:1242
+msgid "Your page load time is acceptable, but can still be improved."
+msgstr ""
+"Le temps de chargement de votre page est acceptable, mais peut encore être "
+"amélioré."
+
+#: includes/diagnose/class_bill_diagnose.php:1237
+msgid "Your page load time is excellent! Keep up the good work."
+msgstr ""
+"Le temps de chargement de votre page est excellent ! Continuez comme ça !"
+
+#: includes/diagnose/class_bill_diagnose.php:239
+msgid "Your PHP version is acceptable but not the latest."
+msgstr ""
+"Votre version de PHP est acceptable, mais ce n'est pas la plus récente."
+
+#: includes/diagnose/class_bill_diagnose.php:2974
+msgid ""
+"Your site has experienced errors for the past 2 days. These errors, "
+"including JavaScript issues, can result in visual problems or disrupt "
+"functionality, ranging from minor glitches to critical site failures. "
+"JavaScript errors can terminate JavaScript execution, leaving all subsequent "
+"commands inoperable."
+msgstr ""
+"Votre site a rencontré des erreurs au cours des deux derniers jours. Ces "
+"erreurs, notamment JavaScript, peuvent entraîner des problèmes visuels ou "
+"perturber le fonctionnement, allant de simples bugs mineurs à des pannes "
+"critiques. Ces erreurs JavaScript peuvent interrompre l'exécution de "
+"JavaScript, rendant toutes les commandes suivantes inopérantes."
+
+#: includes/diagnose/class_bill_diagnose.php:2830
+msgid "Your usage now"
+msgstr "Votre utilisation actuelle"
+
+#: includes/diagnose/class_bill_diagnose.php:2873
+msgid ""
+"Your WordPress Memory Limit is too low, which can lead to critical issues on "
+"your site due to insufficient resources. Promptly address this issue before "
+"continuing."
+msgstr ""
+"Votre limite de mémoire WordPress est trop basse, ce qui peut entraîner des "
+"problèmes critiques sur votre site en raison de ressources insuffisantes. "
+"Résolvez ce problème rapidement avant de continuer."

@@ -1,0 +1,499 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AntiBots Plugin\n"
+"POT-Creation-Date: 2020-03-17 16:12+0000\n"
+"PO-Revision-Date: 2020-03-17 16:12+0000\n"
+"Last-Translator: \n"
+"Language-Team: Bill\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: dashboard/botsgraph.php:12 dashboard/botsgraph_24.php:9
+msgid "Please, try again later."
+msgstr ""
+
+#: dashboard/dashboard.php:12
+msgid "Anti Bots Plugin Status"
+msgstr ""
+
+#: dashboard/dashboard.php:24
+msgid "Go to Dashboard => Anti Bots => Settings => General Settings (tab)"
+msgstr ""
+
+#: dashboard/dashboard.php:26
+msgid "to enable it."
+msgstr ""
+
+#: dashboard/dashboard.php:39
+msgid "Start Up Guide and Settings"
+msgstr ""
+
+#: dashboard/dashboard.php:43
+msgid "Just click Settings in the left menu (Anti Bots)."
+msgstr ""
+
+#: dashboard/dashboard.php:45
+msgid "Dashboard => Anti Bots => Settings"
+msgstr ""
+
+#: dashboard/dashboard.php:53
+msgid "OnLine Guide, Support, Faq..."
+msgstr ""
+
+#: dashboard/dashboard.php:57
+msgid ""
+"You will find our complete and updated OnLine guide, faqs page, link to "
+"support and more in our site."
+msgstr ""
+
+#: dashboard/dashboard.php:65
+msgid "Go"
+msgstr ""
+
+#: dashboard/dashboard.php:71
+msgid "Troubleshooting Guide"
+msgstr ""
+
+#: dashboard/dashboard.php:73
+msgid ""
+"Bots showing in your statistics tool, Use old WP version, Low memory, some "
+"plugin with Javascript error are some possible problems."
+msgstr ""
+
+#: dashboard/dashboard.php:75 guide/guide.php:107
+msgid "Troubleshooting Page"
+msgstr ""
+
+#: dashboard/dashboard.php:82
+msgid "Top Bots Blocked Last 15 Days"
+msgstr ""
+
+#: dashboard/dashboard.php:86
+msgid "Top Bots Blocked Last 24 Hours"
+msgstr ""
+
+#: dashboard/dashboard.php:90
+msgid "Bots / Human Visits"
+msgstr ""
+
+#: dashboard/dashboard.php:100
+msgid "Total Bots Blocked Last 15 Days"
+msgstr ""
+
+#: dashboard/dashboard.php:103
+msgid "Days"
+msgstr ""
+
+#: dashboard/dashboard.php:106
+msgid "Total Bots Blocked Last 12 Hours"
+msgstr ""
+
+#: dashboard/dashboard.php:109
+msgid "Hours"
+msgstr ""
+
+#: dashboard/dashboard.php:114
+msgid "With our plugin, many blocked bots will give up of attack your site !"
+msgstr ""
+
+#: dashboard/main.php:59
+msgid "Help and Support Page"
+msgstr ""
+
+#: dashboard/topips_24.php:18
+msgid "No bots blocked by IP. Please, try again later"
+msgstr ""
+
+#: functions/functions.php:120
+msgid ""
+"Read the StartUp guide at Anti Bots Settings page. (WP Dashboard => Anti "
+"Bots = Settings)"
+msgstr ""
+
+#: functions/functions.php:125
+msgid ""
+"Go to Dashboard Page for more information, Online Guide and Support. (WP "
+"Dashboard => Anti Bots = Dashboard)"
+msgstr ""
+
+#: functions/functions.php:130
+msgid ""
+"Go to Visitors Log Page for details about the visits. (WP Dashboard => Anti "
+"Bots = Visitors Log)"
+msgstr ""
+
+#: functions/functions.php:135
+msgid "Visit the"
+msgstr ""
+
+#: functions/functions.php:137
+msgid "plugin site"
+msgstr ""
+
+#: functions/functions.php:139
+msgid "for more details, Support and online guide."
+msgstr ""
+
+#: functions/functions.php:166
+msgid "Overview"
+msgstr ""
+
+#: functions/functions.php:171
+msgid "Visitors Log"
+msgstr ""
+
+#: functions/functions.php:208
+msgid "Detected Bot on"
+msgstr ""
+
+#: functions/functions.php:209
+msgid "Bot was detected and blocked."
+msgstr ""
+
+#: functions/functions.php:211
+msgid "Date"
+msgstr ""
+
+#: functions/functions.php:212
+msgid "User Agent"
+msgstr ""
+
+#: functions/functions.php:213
+msgid "Robot IP Address"
+msgstr ""
+
+#: functions/functions.php:215
+msgid "eMail sent by Anti Bots Plugin."
+msgstr ""
+
+#: functions/functions.php:217
+msgid "You can antibots emails at the Notifications Settings Tab."
+msgstr ""
+
+#: functions/functions.php:220
+msgid "Dashboard => Anti Bots => Settings."
+msgstr ""
+
+#: functions/functions.php:361
+msgid "Anti Bots Plugin was activated!"
+msgstr ""
+
+#: functions/functions.php:365
+msgid "For details and help, take a look at Anti Bots at your left menu"
+msgstr ""
+
+#: functions/functions.php:370
+msgid "or click here"
+msgstr ""
+
+#: guide/guide.php:9
+msgid "Open the General Settings Tab and click over Test Mode."
+msgstr ""
+
+#: guide/guide.php:11
+msgid "Keep your site in Test Mode a couple of days."
+msgstr ""
+
+#: guide/guide.php:13
+msgid ""
+"If you mark Yes, the plugin begin to block the bots right away. Please, read "
+"all this page before click Yes."
+msgstr ""
+
+#: guide/guide.php:18
+msgid "You can go to WhiteList tab and manage  String and IP tables. "
+msgstr ""
+
+#: guide/guide.php:26
+msgid ""
+"At Email and Notifications tab, you can customize your contact email or left "
+"blank to use your WordPress eMail."
+msgstr ""
+
+#: guide/guide.php:29
+msgid ""
+"You can record your option by receive or not email alerts about bots "
+"attempts."
+msgstr ""
+
+#: guide/guide.php:32
+msgid "Remember to click Save Changes before to left each tab."
+msgstr ""
+
+#: guide/guide.php:39
+msgid "Please, read this:"
+msgstr ""
+
+#: guide/guide.php:42
+msgid "Because not all bots are bad, you need manage the Whitelist Tables."
+msgstr ""
+
+#: guide/guide.php:44
+msgid ""
+"Open the Visitors Table  (under Anti Bots Menu) and take a look at Visitors "
+"List."
+msgstr ""
+
+#: guide/guide.php:45
+msgid "You can see bots blocked (Response Code = 403 - Forbidden -)."
+msgstr ""
+
+#: guide/guide.php:46
+msgid ""
+"Click over the table title to Order. You can also type 403 (or other, as, "
+"for example, 404 - not found -) in the Search Bar."
+msgstr ""
+
+#: guide/guide.php:47
+msgid ""
+"Response Code 404 (not found) they are not caused by our plugin. The plugin "
+"just record that happens to alert you."
+msgstr ""
+
+#: guide/guide.php:49
+msgid ""
+"When the plugin is running in test mode, you can see Response 403 (blocked) "
+"in table but the bots are not really blocked."
+msgstr ""
+
+#: guide/guide.php:50
+msgid ""
+"It is only a simulation to help you to create your particular whitelist."
+msgstr ""
+
+#: guide/guide.php:55
+msgid "Check Visitor's table frequently, especially in the first days."
+msgstr ""
+
+#: guide/guide.php:56
+msgid ""
+"Maybe you will find, for example, some website checker/monitor or payment "
+"service\n"
+" (Autorize.net, Amazon or other)."
+msgstr ""
+
+#: guide/guide.php:59
+msgid ""
+"If you use RSS FEED services, probably they have their bot to read your "
+"feeds."
+msgstr ""
+
+#: guide/guide.php:60
+msgid "Remember to Whitelist their bot."
+msgstr ""
+
+#: guide/guide.php:61
+msgid ""
+"Same thing if you create some smartphone APP. Talk with them to know more "
+"about their bots (as name, for example)."
+msgstr ""
+
+#: guide/guide.php:63
+msgid ""
+"Some search engine or social media, like Telegram, Whatsapp, Qwant, Mail.ru, "
+"LinkedIn, bitlybot, Applebot, AppleNewsBot, SkypeUriPreview, FacebookBot, "
+"twitterbot, vkShare\n"
+"for example, sometimes send bots with empty user agent (or another bad "
+"practice) and our system catch them."
+msgstr ""
+
+#: guide/guide.php:66
+msgid ""
+"If you need more info about each bot or IP, visit the site www.StopBadBots."
+"com (page Bots Table and Boats Table by IP)"
+msgstr ""
+
+#: guide/guide.php:69
+msgid ""
+"Antibots it is a powerfull tool. Then, like all powerfull tools it is "
+"necessary to use carefully."
+msgstr ""
+
+#: guide/guide.php:71
+msgid "It is up to you determine what bot is beneficial or detrimental."
+msgstr ""
+
+#: guide/guide.php:73
+msgid ""
+"Unfortunately the amount of bots is growing vertiginously. They can overload "
+"your site and you need invest time to manage this."
+msgstr ""
+
+#: guide/guide.php:77
+msgid "You don't need create any robots.txt or htaccess file. "
+msgstr ""
+
+#: guide/guide.php:80
+msgid ""
+"The Plugin doesn't block main Google, Yahoo and Bing (Microsoft) but will "
+"block fake bots."
+msgstr ""
+
+#: guide/guide.php:100
+msgid ""
+"Visit the plugin site for more detail, online guide, FAQ and Troubleshooting "
+"page and bot's and IP's details."
+msgstr ""
+
+#: guide/guide.php:103
+msgid "OnLine Guide"
+msgstr ""
+
+#: guide/guide.php:105
+msgid "Support Page"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:10
+#: settings/options/plugin_options_tabbed.php:25
+msgid "Block all Bots Less Whitelisted?"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:12
+msgid "Mark Yes and the plugin will block bots right away."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:13
+msgid "Please, read the StartUp Guide before mark yes."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:15
+msgid ""
+"Mark Test Mode and the plugin will create a log of visitors and statistics "
+"but doesn't block any bot."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:17
+msgid "Then click SAVE CHANGES."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:20
+msgid "Instructions"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:27
+#: settings/options/plugin_options_tabbed.php:65
+msgid "yes"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:28
+msgid "Test mode"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:35
+msgid "Keep Visitor Record Max"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:39
+msgid "1 Week"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:40
+msgid "2 Weeks"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:41
+msgid "3 Weeks"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:42
+msgid "4 Weeks"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:43
+msgid "5 Weeks"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:44
+msgid "6 Weeks"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:45
+msgid "7 Weeks"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:46
+msgid "8 Weeks"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:50
+msgid "You can create 2 whitelist in this page: String and IP."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:52
+msgid "Just add one string to unblock all User Agent that contain that string."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:54
+msgid "For IP withelist, just add the IP to unblock it."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:56
+msgid "Add only one for each line."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:58
+msgid "Instructions about User Agent String and IP Whitelist."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:63
+msgid "Enable Both Withelist?"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:66
+msgid "no"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:72
+msgid "String whitelist (no case sensitive)"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:77
+msgid "IP whitelist."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:77
+msgid "Your Current IP:"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:82
+msgid "Fill out the email address to send messages."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:84
+msgid ""
+"Left Blank to use your default WordPress email. Then, click save changes."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:91
+msgid "Do you want receive email alerts for each bot attempt?"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:93
+msgid "If you under brute force attack, you will receive a lot of emails."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:95
+msgid ""
+"You can see the bots attacks info at Visitors Log Table. (column Num "
+"Blocked)."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:99
+msgid "Alert me by email each Bots Attempts"
+msgstr ""
+
+#: table/visitors_render.php:18
+msgid "Empty Table. Please, try again later."
+msgstr ""
+
+#: table/visitors_render.php:33
+msgid "Visits Log"
+msgstr ""

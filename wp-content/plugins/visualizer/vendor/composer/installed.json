@@ -1,0 +1,186 @@
+{
+    "packages": [
+        {
+            "name": "codeinwp/themeisle-sdk",
+            "version": "3.3.48",
+            "version_normalized": "3.3.48.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Codeinwp/themeisle-sdk.git",
+                "reference": "0727d2cf2fc9bfb81b42968aeaf2bf4e340f021e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Codeinwp/themeisle-sdk/zipball/0727d2cf2fc9bfb81b42968aeaf2bf4e340f021e",
+                "reference": "0727d2cf2fc9bfb81b42968aeaf2bf4e340f021e",
+                "shasum": ""
+            },
+            "require-dev": {
+                "codeinwp/phpcs-ruleset": "dev-main",
+                "yoast/phpunit-polyfills": "^2.0"
+            },
+            "time": "2025-08-11T16:47:24+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0+"
+            ],
+            "authors": [
+                {
+                    "name": "ThemeIsle team",
+                    "email": "friends@themeisle.com",
+                    "homepage": "https://themeisle.com"
+                }
+            ],
+            "description": "ThemeIsle SDK",
+            "homepage": "https://github.com/Codeinwp/themeisle-sdk",
+            "keywords": [
+                "wordpress"
+            ],
+            "support": {
+                "issues": "https://github.com/Codeinwp/themeisle-sdk/issues",
+                "source": "https://github.com/Codeinwp/themeisle-sdk/tree/v3.3.48"
+            },
+            "install-path": "../codeinwp/themeisle-sdk"
+        },
+        {
+            "name": "neitanod/forceutf8",
+            "version": "v2.0.4",
+            "version_normalized": "2.0.4.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/neitanod/forceutf8.git",
+                "reference": "c1fbe70bfb5ad41b8ec5785056b0e308b40d4831"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/neitanod/forceutf8/zipball/c1fbe70bfb5ad41b8ec5785056b0e308b40d4831",
+                "reference": "c1fbe70bfb5ad41b8ec5785056b0e308b40d4831",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.0"
+            },
+            "time": "2019-12-10T14:09:14+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-0": {
+                    "ForceUTF8\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Sebastián Grignoli",
+                    "email": "grignoli@gmail.com"
+                }
+            ],
+            "description": "PHP Class Encoding featuring popular Encoding::toUTF8() function --formerly known as forceUTF8()-- that fixes mixed encoded strings.",
+            "homepage": "https://github.com/neitanod/forceutf8",
+            "support": {
+                "issues": "https://github.com/neitanod/forceutf8/issues",
+                "source": "https://github.com/neitanod/forceutf8/tree/master"
+            },
+            "install-path": "../neitanod/forceutf8"
+        },
+        {
+            "name": "openspout/openspout",
+            "version": "v3.7.4",
+            "version_normalized": "3.7.4.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/openspout/openspout.git",
+                "reference": "dfbbd53b5edcd486b45a37f6a04fac33073c70f3"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/openspout/openspout/zipball/dfbbd53b5edcd486b45a37f6a04fac33073c70f3",
+                "reference": "dfbbd53b5edcd486b45a37f6a04fac33073c70f3",
+                "shasum": ""
+            },
+            "require": {
+                "ext-dom": "*",
+                "ext-filter": "*",
+                "ext-libxml": "*",
+                "ext-xmlreader": "*",
+                "ext-zip": "*",
+                "php": "~7.3.0 || ~7.4.0 || ~8.0.0 || ~8.1.0"
+            },
+            "require-dev": {
+                "ext-zlib": "*",
+                "friendsofphp/php-cs-fixer": "^3.4",
+                "phpstan/phpstan": "^1.4",
+                "phpstan/phpstan-phpunit": "^1.0",
+                "phpunit/phpunit": "^9.5"
+            },
+            "suggest": {
+                "ext-iconv": "To handle non UTF-8 CSV files (if \"php-intl\" is not already installed or is too limited)",
+                "ext-intl": "To handle non UTF-8 CSV files (if \"iconv\" is not already installed)"
+            },
+            "time": "2022-03-31T06:15:15+00:00",
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "3.3.x-dev"
+                }
+            },
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "OpenSpout\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Adrien Loison",
+                    "email": "adrien@box.com"
+                }
+            ],
+            "description": "PHP Library to read and write spreadsheet files (CSV, XLSX and ODS), in a fast and scalable way",
+            "homepage": "https://github.com/openspout/openspout",
+            "keywords": [
+                "OOXML",
+                "csv",
+                "excel",
+                "memory",
+                "odf",
+                "ods",
+                "office",
+                "open",
+                "php",
+                "read",
+                "scale",
+                "spreadsheet",
+                "stream",
+                "write",
+                "xlsx"
+            ],
+            "support": {
+                "issues": "https://github.com/openspout/openspout/issues",
+                "source": "https://github.com/openspout/openspout/tree/v3.7.4"
+            },
+            "funding": [
+                {
+                    "url": "https://paypal.me/filippotessarotto",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/Slamdunk",
+                    "type": "github"
+                }
+            ],
+            "install-path": "../openspout/openspout"
+        }
+    ],
+    "dev": false,
+    "dev-package-names": []
+}

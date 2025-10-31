@@ -1,0 +1,249 @@
+# Copyright (C) 2016-2025 Team LifterLMS
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: LifterLMS WooCommerce 2.7.0\n"
+"Report-Msgid-Bugs-To: https://lifterlms.com/my-account/my-tickets\n"
+"Last-Translator: Team LifterLMS <team@lifterlms.com>\n"
+"Language-Team: Team LifterLMS <team@lifterlms.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-04-08T19:50:16+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: llms/dev 0.2.1\n"
+"X-Domain: lifterlms-woocommerce\n"
+
+#. Plugin Name of the plugin
+#: lifterlms-integration-woocommerce.php
+msgid "LifterLMS WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: lifterlms-integration-woocommerce.php
+msgid "https://lifterlms.com/product/woocommerce-extension/"
+msgstr ""
+
+#. Description of the plugin
+#: lifterlms-integration-woocommerce.php
+#: includes/class-llms-integration-woocommerce.php:60
+msgid "Sell LifterLMS Courses and Memberships using WooCommerce"
+msgstr ""
+
+#. Author of the plugin
+#: lifterlms-integration-woocommerce.php
+msgid "Team LifterLMS"
+msgstr ""
+
+#. Author URI of the plugin
+#: lifterlms-integration-woocommerce.php
+msgid "https://lifterlms.com"
+msgstr ""
+
+#: includes/admin/views/html-order-item-meta.php:20
+msgid "Course / Membership"
+msgstr ""
+
+#: includes/admin/views/html-order-item-meta.php:21
+msgid "Enrollment"
+msgstr ""
+
+#: includes/admin/views/html-order-item-meta.php:22
+msgid "Expiration"
+msgstr ""
+
+#: includes/admin/views/html-order-item-meta.php:35
+msgid "None"
+msgstr ""
+
+#: includes/admin/views/html-order-item-meta.php:49
+msgid "Add"
+msgstr ""
+
+#: includes/admin/views/html-order-item-meta.php:56
+msgid "Remove"
+msgstr ""
+
+#: includes/class-llms-integration-woocommerce.php:59
+msgid "WooCommerce"
+msgstr ""
+
+#. Translators: %1$s = opening anchor tag; %2$s = closing anchor tag.
+#: includes/class-llms-integration-woocommerce.php:62
+msgid "You need to install the %1$sWooCommerce core%2$s plugin to use this integration."
+msgstr ""
+
+#. Translators: %1$s = course/membership title; %2$s = course or membership name/label.
+#: includes/class-llms-integration-woocommerce.php:136
+msgid "Customer was enrolled into the \"%1$s\" %2$s."
+msgstr ""
+
+#. Translators: %1$s = course/membership title; %2$s = course or membership name/label.
+#: includes/class-llms-integration-woocommerce.php:141
+msgid "Customer was unenrolled from the \"%1$s\" %2$s."
+msgstr ""
+
+#. Translators: %1$s = opening anchor tag; %2$s opening anchor tag; %3$s = closing anchor tag.
+#: includes/class-llms-integration-woocommerce.php:247
+msgid "It looks like you're using WooCommerce for checkout. When using WooCommerce these LifterLMS settings do not apply, instead, use the equivalent settings on the %1$sWooCommerce settings panel%3$s and install and configure %2$sWooCommerce payment gateways%3$s."
+msgstr ""
+
+#. Translators: %1$s = opening anchor tag; %2$s = closing anchor tag.
+#: includes/class-llms-integration-woocommerce.php:321
+msgid "Customers will be enrolled when a WooCommerce Order reaches this status. See how to create products which will automatically complete orders %1$shere%2$s."
+msgstr ""
+
+#: includes/class-llms-integration-woocommerce.php:326
+msgid "Order Enrollment Status"
+msgstr ""
+
+#: includes/class-llms-integration-woocommerce.php:331
+msgid "Customers will be unenrolled when a WooCommerce Order reaches any of these statuses"
+msgstr ""
+
+#: includes/class-llms-integration-woocommerce.php:336
+msgid "Order Unenrollment Status"
+msgstr ""
+
+#. Translators: %1$s = opening anchor tag; %2$s = closing anchor tag.
+#: includes/class-llms-integration-woocommerce.php:348
+msgid "Install the %1$sWooCommerce Subscriptions%2$s extension to create recurring subscriptions or payment plans for your course and memberships."
+msgstr ""
+
+#: includes/class-llms-integration-woocommerce.php:355
+msgid "Customers will be enrolled when a WooCommerce Subscription reaches this status"
+msgstr ""
+
+#: includes/class-llms-integration-woocommerce.php:361
+msgid "Subscription Enrollment Status"
+msgstr ""
+
+#: includes/class-llms-integration-woocommerce.php:366
+msgid "Customers will be unenrolled when a WooCommerce Subscription reaches any of these statuses"
+msgstr ""
+
+#: includes/class-llms-integration-woocommerce.php:372
+msgid "Subscription Unenrollment Status"
+msgstr ""
+
+#: includes/class-llms-integration-woocommerce.php:385
+msgid "The following LifterLMS Student Dashboard areas will be added to the WooCommerce My Account Page"
+msgstr ""
+
+#: includes/class-llms-integration-woocommerce.php:390
+msgid "My Account Endpoints"
+msgstr ""
+
+#: includes/class-llms-integration-woocommerce.php:394
+msgid "Enable debug logging"
+msgstr ""
+
+#. Translators: %s = log file path.
+#: includes/class-llms-integration-woocommerce.php:396
+msgid "When enabled, debugging information will be logged to \"%s\""
+msgstr ""
+
+#: includes/class-llms-integration-woocommerce.php:398
+msgid "Debug Log"
+msgstr ""
+
+#: includes/class-llms-integration-woocommerce.php:491
+msgid "My Grades"
+msgstr ""
+
+#: includes/class-llms-integration-woocommerce.php:558
+msgid "My Notifications"
+msgstr ""
+
+#: includes/class-llms-integration-woocommerce.php:570
+msgid "Redeem a Voucher"
+msgstr ""
+
+#: includes/class-llms-integration-woocommerce.php:583
+msgid "My Favorites"
+msgstr ""
+
+#: includes/class-llms-integration-woocommerce.php:597
+msgid "My Notes"
+msgstr ""
+
+#: includes/class-llms-integration-woocommerce.php:625
+msgid "My Groups"
+msgstr ""
+
+#. Translators: %1$s is the WooCommerce product's title.
+#: includes/class-llms-integration-woocommerce.php:711
+msgid "You cannot buy \"%1$s\". Please remove \"%1$s\" from your cart to proceed."
+msgstr ""
+
+#. Translators: %1$s is the membership title, %2$s is the WooCommerce product's title.
+#: includes/class-llms-integration-woocommerce.php:722
+msgid "You need to be a member of \"%1$s\" to buy \"%2$s\"."
+msgstr ""
+
+#. Translators: %1$s is the course/membership title, %2$s is the WooCommerce product's title.
+#: includes/class-llms-integration-woocommerce.php:790
+msgid "You are already enrolled into \"%1$s\". Please remove \"%2$s\" from your cart to proceed."
+msgstr ""
+
+#: includes/class-llms-wc-access-plans.php:448
+msgid "WooCommerce Product"
+msgstr ""
+
+#: includes/class-llms-wc-access-plans.php:449
+msgid "Select a product or product variation"
+msgstr ""
+
+#: includes/class-llms-wc-access-plans.php:578
+msgid "This access plan is associated with a product that doesn't exist anymore. You can either delete it or add a new product connection"
+msgstr ""
+
+#: includes/class-llms-wc-availability-buttons.php:350
+#: includes/class-llms-wc-product-meta.php:58
+#: includes/class-llms-wc-product-meta.php:93
+msgid "Members Only"
+msgstr ""
+
+#. Translators: %s = Title of the course or membership.
+#: includes/class-llms-wc-order-actions.php:580
+msgid "Student unenrolled from \"%s\" due to automatic access plan expiration."
+msgstr ""
+
+#: includes/class-llms-wc-product-meta.php:56
+#: includes/class-llms-wc-product-meta.php:90
+msgid "Customers must belong to the selected LifterLMS membership in order to purchase this product."
+msgstr ""
+
+#: includes/class-llms-wc-product-meta.php:66
+#: includes/class-llms-wc-product-meta.php:103
+msgid "Customize the text of the button displayed to non-members."
+msgstr ""
+
+#: includes/class-llms-wc-product-meta.php:68
+#: includes/class-llms-wc-product-meta.php:106
+msgid "Members Button Text"
+msgstr ""
+
+#: includes/class-llms-wc-product-meta.php:134
+msgid "Available to all customers"
+msgstr ""
+
+#: includes/class-llms-wc-relationship-display.php:86
+msgid "Expires"
+msgstr ""
+
+#: includes/class-llms-wc-sales-pages.php:98
+msgid "Select a product"
+msgstr ""
+
+#: includes/class-llms-wc-sales-pages.php:103
+msgid "Select a Product"
+msgstr ""
+
+#: includes/class-llms-wc-sales-pages.php:118
+msgid "Redirect to a WooCommerce Product"
+msgstr ""
+
+#: includes/class-llms-wc-social-learning.php:231
+msgid "Profile Information"
+msgstr ""
