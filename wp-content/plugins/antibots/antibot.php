@@ -2,7 +2,7 @@
 Plugin Name: Antibots
 Plugin URI: http://antibotsplugin.com
 Description: Anti Bots, SPAM bots and spiders. No DNS or Cloud Traffic Redirection. No Slow Down Your Site!
-Version: 1.72
+Version: 1.73
 Text Domain: antibots
 Domain Path: /language
 Author: Bill Minozzi

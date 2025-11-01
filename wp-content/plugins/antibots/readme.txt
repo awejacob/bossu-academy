@@ -3,7 +3,7 @@ Contributors: sminozzi
 Tags: robot, scrapper, botnet, spider, crawler
 Requires at least: 5.3
 Tested up to: 6.8
-Stable tag: 1.72
+Stable tag: 1.73
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -248,7 +248,7 @@ For a complete overview of all features, our data handling practices, and the fu
 https://siterightaway.net/terms-of-use-of-our-plugins-and-themes/ 
 
 == Changelog ==
-1.72 2025-10-30 -  Improved Monitor.
+1.73 2025-10-30 -  Improved Monitor.
 1.64/67 2025-10-25 -  Improved Monitor.
 1.62 2025-09-29 -  Warning removed when debug is true.
 1.59/60 2025-09-09 -  Improved Dashboard.
